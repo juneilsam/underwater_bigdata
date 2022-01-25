@@ -1,5 +1,7 @@
 # underwater_bigdata
 
+↓ 서비스 제공중
+
 https://www.gims.go.kr/bdp/portal/ai-prediction-intro.do
 
 해당 프로젝트의 모델은 혼자 구축한 것이 아니고 저작권이 있는 모델이라 일부만 업로드되어 있습니다.
