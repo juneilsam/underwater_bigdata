@@ -12,7 +12,7 @@
 - 수자원공사에 축적된 지하수 관련 데이터를 디지털 트윈 & 빅데이터 플랫폼을 통해 대중에게 제공하고자 함
 - 수자원 공사 빅데이터 플랫폼에 서비스 중
 
-      ([https://www.gims.go.kr/bdp/portal/ai-prediction-intro.do](https://www.gims.go.kr/bdp/portal/ai-prediction-intro.do))
+      https://www.gims.go.kr/bdp/portal/ai-prediction-intro.do
 
 ### 📃_프로젝트 요약
 
